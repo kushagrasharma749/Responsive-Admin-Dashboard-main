@@ -6,15 +6,13 @@ Live Demo - https://quantumcoding123.github.io/Day-23-Responsive-Admin-Dashboard
 
 # Join Us
 
-Instagram - https://www.instagram.com/quantumcoding123
 
-Telegram - https://t.me/QuantumCoding123
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
 
-GitHub-https://github.com/QuantumCoding123
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+
+GitHub-(https://github.com/kushagrasharma749/Responsive-Admin-Dashboard-main/edit/main/README.md)
+
 
 With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
 
@@ -22,12 +20,10 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 1
 
-![Screenshot (94)](https://github.com/QuantumCoding123/Day-23-Responsive-Admin-Dashboard/assets/166281221/c923dd43-6c2b-4a69-a1d6-8f87790e35bc)
 
  
 # Output - 2
 
-![Screenshot (95)](https://github.com/QuantumCoding123/Day-23-Responsive-Admin-Dashboard/assets/166281221/ed7cdd1a-0806-45e6-ad81-23bb759a420b)
 
 
 
